@@ -34,7 +34,7 @@ Instructions for generating the dynamic library and calling it from Python are p
 
 ## License
 
-[Pengcheng Laboratory]
+Copyright by Pengcheng Laboratory
 
 ## Citation
 
