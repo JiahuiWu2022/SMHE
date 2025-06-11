@@ -59,7 +59,7 @@ Modifications and extensions in this repository are also released under the same
 
 📜 License: http://creativecommons.org/licenses/by-nc/3.0/
 
-© Copyright by Pengcheng Lab. and CryptoLab Inc.
+© Copyright by Pengcheng Lab.
 
 This repository is for academic and non-commercial research use only.
 
