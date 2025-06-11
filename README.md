@@ -44,7 +44,7 @@ This repository includes:
 
 Follow the detailed tutorial in our blog (in Chinese):
 
-📘 [CSDN Blog Guide](#) *([Add actual link here](https://blog.csdn.net/wujiahui3045/article/details/125220533?spm=1011.2415.3001.5331))*
+📘 [CSDN Blog Guide](#) *([Python calls C++](https://blog.csdn.net/wujiahui3045/article/details/125220533?spm=1011.2415.3001.5331))*
 
 1. Compile the dynamic library:
    ```bash
