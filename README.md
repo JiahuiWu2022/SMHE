@@ -56,7 +56,9 @@ Follow the detailed tutorial in our blog (in Chinese):
 This project is based on HEAAN, licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0).
 Modifications and extensions in this repository are also released under the same license.
 📜 License: http://creativecommons.org/licenses/by-nc/3.0/
+
 © Copyright by Pengcheng Laboratory
+
 This repository is for academic and non-commercial research use only.
 
 ## Citation
