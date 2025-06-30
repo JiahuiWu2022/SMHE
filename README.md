@@ -65,7 +65,7 @@ This repository is for academic and non-commercial research use only.
 
 ## Citation
 
-If you use this code in your research, please cite our paper [add citation or link if applicable].
+If you use this code in your research, please cite our paper https://arxiv.org/abs/2506.20101.
 
 ---
 
